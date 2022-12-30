@@ -17,7 +17,7 @@ async function hargaPerjam() {
 }
 
 async function hargaPerhari() {
-  const data = await investing("commodities/brent-oil", "P1M", "P1D");
+  const data = await investing("commodities/brent-oil", "P1M", "PT5H");
   return data;
 }
 

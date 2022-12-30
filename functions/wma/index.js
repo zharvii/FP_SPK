@@ -1,4 +1,4 @@
-// Weighted moving average
+// Fungsi Weighted moving average
 
 exports.wma = (data, bobot) => {
   const isNumber = (subject) =>
