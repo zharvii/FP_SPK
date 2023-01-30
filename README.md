@@ -1,6 +1,7 @@
 # FP_SPK
 Final Project Mata Kuliah Sistem Pendukung Keputusan
 <br />
+Sistem Peramalan Harga Minyak Bumi
 <br />
 Nama Kelompok : <br />
 1.Daris Irfan Putrawanto (20082010001)  <br />
